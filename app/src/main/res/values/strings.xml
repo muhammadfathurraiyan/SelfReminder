@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Self Reminder</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="judul">Self Reminder</string>
+    <string name="title_home">Home</string>
+    <string name="title_list">List</string>
+    <string name="title_input">Input</string>
+    <string name="title_intro">Introduction</string>
+    <string name="intro_text">People nowadays have a lot of problems, one of them is time. Self Reminder available to solve all the problems. Try it now!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
